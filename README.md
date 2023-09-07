@@ -1,1 +1,1 @@
-# Thirulogasanthiran.gitub.io
+# Thirulogasanthiran.github.io
